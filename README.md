@@ -5,9 +5,9 @@
 
 ## 3. Predict Result
 <p align="center">
-  <img src="PIC/predictions/predicted_image_1.png" width="20%"/>
-  <img src="PIC/predictions/predicted_image_2.png" width="20%"/>
-  <img src="PIC/predictions/predicted_image_3.png" width="20%"/>
-  <img src="PIC/predictions/predicted_image_4.png" width="20%"/>
-  <img src="PIC/predictions/predicted_image_5.png" width="20%"/>
+  <img src="PIC/predictions/predicted_image_1.png" width="19%"/>
+  <img src="PIC/predictions/predicted_image_2.png" width="19%"/>
+  <img src="PIC/predictions/predicted_image_3.png" width="19%"/>
+  <img src="PIC/predictions/predicted_image_4.png" width="19%"/>
+  <img src="PIC/predictions/predicted_image_5.png" width="19%"/>
 </p>
